@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 env_setup.sh
+
+.DS_Store
