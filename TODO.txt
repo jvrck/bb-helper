@@ -1,0 +1,4 @@
+* Fix documentation
+* Add versioning 
+* Add changelog
+* Add build actions
