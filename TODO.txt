@@ -2,3 +2,4 @@
 * Add versioning 
 * Add changelog
 * Add build actions
+* Add linting
